@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="content_description_image_color">Image Colour</string>
+    <string name="content_description_loading_status">Loading Status</string>
+</resources>
